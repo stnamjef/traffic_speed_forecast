@@ -1,1 +1,1 @@
-# traffic_speed_forecast
+## 웹파이썬프로그래밍 수업의 텀프로젝트 결과물입니다.
